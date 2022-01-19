@@ -57,7 +57,7 @@ export default function Hero() {
   return (
     <Container>
       <Heading>Hi. I`m Arianit</Heading>
-      <Paragraph>Frontend developer and UI designer.</Paragraph>
+      <Paragraph>Frontend developer and UI/UX designer.</Paragraph>
     </Container>
   );
 }
